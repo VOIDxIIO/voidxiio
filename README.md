@@ -1,35 +1,24 @@
-<div align="center">
+![voidxiio](./header.svg)
 
-<img src="./terminal.svg" alt="terminal loading voidxiio" width="100%"/>
+![about](./hd-about.svg)
 
-</div>
+> one line about you, plain and specific.
 
-```bash
-$ cat about.txt
-```
+what you're into, in two sentences. say what you're building right now and
+what you're learning. skip the buzzwords.
 
-```
-name      : voidxiio
-vibe      : chaotic but it compiles
-stack     : whatever works today
-mode      : side projects only
-sleep     : optional
-```
+![stack](./hd-stack.svg)
 
-```bash
-$ ls ~/projects
-```
+`python` `javascript` `git` `linux` `(only what you actually use)`
 
-```
-├── project-one/     # half finished, fully vibes
-├── project-two/     # works on my machine
-└── project-three/   # idea phase
-```
+![projects](./hd-projects.svg)
 
-```bash
-$ ping me
-```
+[**project-name**](https://github.com/voidxiio/project-name) · `tech, tech`  
+what it does in one sentence. what it's for.
 
-[![github](https://img.shields.io/badge/github-voidxiio-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/voidxiio)
+[**project-name**](https://github.com/voidxiio/project-name) · `tech`  
+what it does in one sentence.
 
-<sub>`exit 0`</sub>
+![contact](./hd-contact.svg)
+
+[discord](#) · [instagram](#) · [email](mailto:you@example.com)
